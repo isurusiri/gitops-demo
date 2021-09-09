@@ -1,1 +1,1 @@
-# Complete Infrastructure GitOps Demo (Case Study)
+# Complete Infrastructure GitOps Demo (A Case Study)
