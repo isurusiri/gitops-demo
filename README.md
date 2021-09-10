@@ -1,7 +1,7 @@
 # Complete Infrastructure GitOps Demo (A Case Study)
 
 Backlog:
-- [] configure remote state
+- [X] configure remote state
 - [] automate kubeconfig update
 - [] configure atlantis
 - [] workload definitions
