@@ -61,3 +61,7 @@ output "config-map-aws-auth" {
   value = local.config-map-aws-auth
 }
 
+resource "local_file" "kubeconfig" {
+    content  = local.kubeconfig
+    filename = ".kubeconfig"
+}

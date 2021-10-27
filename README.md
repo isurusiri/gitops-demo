@@ -3,6 +3,7 @@
 Backlog:
 - [X] configure remote state
 - [] automate kubeconfig update
+- [] aws fargate for atlantis
 - [] configure atlantis
 - [] workload definitions
 - [] configure argocd
